@@ -1,0 +1,15 @@
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\bin\Debug\net6.0\EdukOS1.exe
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\bin\Debug\net6.0\EdukOS1.deps.json
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\bin\Debug\net6.0\EdukOS1.runtimeconfig.json
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\bin\Debug\net6.0\EdukOS1.dll
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\bin\Debug\net6.0\EdukOS1.pdb
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.csproj.AssemblyReference.cache
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.AssemblyInfoInputs.cache
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.AssemblyInfo.cs
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.csproj.CoreCompileInputs.cache
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.dll
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\refint\EdukOS1.dll
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.pdb
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\EdukOS1.genruntimeconfig.cache
+C:\Users\matob\OneDrive\Desktop\EdukOS1\EdukOS1\obj\Debug\net6.0\ref\EdukOS1.dll
